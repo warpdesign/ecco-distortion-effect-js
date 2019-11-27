@@ -1,8 +1,8 @@
-# ecco distortion effect js version
+# ecco distortion effect JavaScript version
 
- This is a quick and dirty JavaScript rewrite of [ecco distortion effect](https://github.com/foone/ecco-distortion-effect) by @foone.
+ This is a quick and dirty JavaScript rewrite of [ecco distortion effect](https://github.com/foone/ecco-distortion-effect) by [@foone](https://github.com/foone).
 
- [Demo](https://warpdesign.github.io/ecco-distortion-effect--js/)
+ [Demo](https://warpdesign.github.io/ecco-distortion-effect-js/)
 
  Below is the original readme file.
 
