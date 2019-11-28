@@ -30,10 +30,12 @@ function draw() {
     requestAnimationFrame(draw);
 }
 
-async function init() {
+function init() {
     context = createCanvas(320, 224);
-    img = await loadImage('background.png');
-    requestAnimationFrame(draw);
+    loadImage('background.png').then((background) => {
+        img = background;
+        requestAnimationFrame(draw);
+    });
 }
 
 init();
